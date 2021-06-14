@@ -1,10 +1,10 @@
-#Modoboa versionchecker
+# Modoboa versionchecker
 
 ## Why
-As a systemadministrator on Linux you probably are very comfortable with a terminal; it helps you to quickly get things done. A fast check from your favorite environment to see if everything is still up to date is convenient, starting a new webbrowser session, including login, not always.
+As a systemadministrator on Linux you probably are very comfortable with a terminal: it helps you to quickly get things done. A fast check from your favorite environment to see if everything is still up to date is convenient, starting a new webbrowser session, including login, not always.
 
-##Added benefits
-The script can be scripted itself and or easily extended with new and extra functionality. Originally I had in mind to add these features as well:
+## Added benefits
+The script can be scripted itself (wrapper), ran as a cronjob and/or easily extended with new and extra functionality. Originally I had in mind to add these features as well:
 
 ### Possible feature: TUI
 Why not make things more user friendly and make the script usable in two ways: provide a classic command line interface as well as a Text User Interface (TUI).
